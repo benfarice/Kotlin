@@ -1,5 +1,6 @@
+//This is the main function
 fun main(args:Array<String>) {
-
+    //Enter user name
     print("Enter name : ")
     var name = readLine()
 
@@ -24,6 +25,14 @@ fun main(args:Array<String>) {
     var pi:Float = 3.14f
 
     val religion = "islam" //val is not variable it is for read only
+
+    /*
+    Print Output
+    to allow users to see variables values
+
+
+
+    */
 
     println("****** output *******")
 
