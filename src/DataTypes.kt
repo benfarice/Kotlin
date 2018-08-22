@@ -14,6 +14,7 @@ fun main(args:Array<String>) {
 
     var pi:Float = 3.14f
 
+    val religion = "islam" //val is not variable it is for read only
 
     println("name : "+name)
 }
