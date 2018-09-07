@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ed836a-68b7-4b0c-b5c5-b0660a5a5ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NestedForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/ConvertDataTypeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/ConvertDataTypeKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/DataTypesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/DataTypesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/ExpressionIFandWhenKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/ExpressionIFandWhenKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/FindMyAgeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/FindMyAgeKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/FirstAppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/FirstAppKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/IncrementAndDecrementKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/IncrementAndDecrementKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/InputsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/InputsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/LogicConditionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/LogicConditionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/NestedForLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/NestedForLoopKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/NullSafetyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/NullSafetyKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/OperationsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/OperationsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/PrioritiesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/PrioritiesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/SimpleForLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/SimpleForLoopKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/SimpleIfElseKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/SimpleIfElseKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/SimpleIfKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/SimpleIfKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/SimpleNestedIfKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/SimpleNestedIfKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/SimpleWhenKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/SimpleWhenKt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,28 +37,29 @@
         <counts>
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="2980" />
+          <entry key="kt" value="3024" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="27" />
+          <entry key="Kotlin" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="kt" value="27" />
+          <entry key="kt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="2980" />
+          <entry key="Kotlin" value="3024" />
         </counts>
       </usages-collector>
     </session>
@@ -47,19 +67,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NestedForLoop.kt">
+        <entry file="file://$PROJECT_DIR$/src/DoWhileLoop.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimpleForLoop.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -96,6 +107,8 @@
         <option value="$PROJECT_DIR$/src/ExpressionIFandWhen.kt" />
         <option value="$PROJECT_DIR$/src/SimpleForLoop.kt" />
         <option value="$PROJECT_DIR$/src/NestedForLoop.kt" />
+        <option value="$PROJECT_DIR$/src/WhileLoop.kt" />
+        <option value="$PROJECT_DIR$/src/DoWhileLoop.kt" />
       </list>
     </option>
   </component>
@@ -113,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,10 +144,11 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536177142295" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536329462117" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.NestedForLoopKt">
+  <component name="RunManager" selected="Kotlin.WhileLoopKt">
     <configuration name="ExpressionIFandWhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -189,19 +202,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleIfElseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SimpleIfElseKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SimpleWhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -215,20 +215,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="WhileLoopKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Kotlin.SimpleIfElseKt" />
       <item itemvalue="Kotlin.SimpleWhenKt" />
       <item itemvalue="Kotlin.ExpressionIFandWhenKt" />
       <item itemvalue="Kotlin.SimpleForLoopKt" />
       <item itemvalue="Kotlin.NestedForLoopKt" />
+      <item itemvalue="Kotlin.WhileLoopKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhileLoopKt" />
         <item itemvalue="Kotlin.NestedForLoopKt" />
         <item itemvalue="Kotlin.SimpleForLoopKt" />
         <item itemvalue="Kotlin.ExpressionIFandWhenKt" />
         <item itemvalue="Kotlin.SimpleWhenKt" />
-        <item itemvalue="Kotlin.SimpleIfElseKt" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +262,7 @@
     <frame x="0" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,17 +439,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimpleForLoop.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NestedForLoop.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleForLoop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WhileLoop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DoWhileLoop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
